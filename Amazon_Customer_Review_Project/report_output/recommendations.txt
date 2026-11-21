@@ -1,0 +1,8 @@
+FINAL RECOMMENDATIONS
+
+1. Prioritize the top categories: focus stock, marketing and offers on Electronics, Home&Kitchen, Computers&Accessories, which hold 97% of all products, and Electronics alone brings 82% of the revenue.
+2. Review the discount strategy: the correlation between discount and sales is -0.19, so avoid unnecessary deep discounts, especially on Budget products (average discount 55%) and on products that already sell well.
+3. Promote best sellers: keep top products such as Redmi 9 Activ always in stock and feature them prominently.
+4. Improve weaker areas: review the 6 products rated below 3, and check product quality and product information in Home&Kitchen, which has the lowest average rating (4.04) among the large categories.
+5. Expand the smaller categories: all categories outside the top three hold only 2.8% of products, so adding more products there could widen the catalog.
+6. Clean up product listings: many popular products are listed several times as separate variants, so grouping them would make sales and customer feedback easier to track.

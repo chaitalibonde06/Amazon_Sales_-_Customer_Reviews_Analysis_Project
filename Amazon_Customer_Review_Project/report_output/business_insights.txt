@@ -1,0 +1,12 @@
+BUSINESS INSIGHTS
+
+1. The dataset contains 1,351 unique products with an estimated revenue of Rs 68.96 billion, an average rating of 4.09 and an average discount of 46.7%.
+2. The top three categories (Electronics, Home&Kitchen, Computers&Accessories) hold 97.2% of all products, so the catalog is concentrated in a few categories.
+3. Electronics generates 82.1% of the total estimated revenue, and Electronics receives 59.7% of all customer reviews.
+4. Redmi 9 Activ is the highest-selling product with an estimated revenue of Rs 2.67 billion.
+5. Customer ratings are positive: 74.8% of products are rated 4.0 or above, and only 6 products are rated below 3.
+6. Among large categories, OfficeProducts has the highest average rating (4.31) and Home&Kitchen has the lowest (4.04).
+7. Budget products get the highest average discount (54.9%), while Premium products get the lowest (36.5%).
+8. The correlation between discount percentage and estimated sales is -0.19, so there is no strong relationship between the two.
+9. The correlation between price and rating is 0.13, so there is no strong relationship between the two.
+10. The median product price is Rs 899, and 74.0% of products cost Rs 2,000 or less.
